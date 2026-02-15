@@ -1,7 +1,29 @@
-# 💫 About Me:
-👋 Hi, I'm Shubham!<br><br>🚀 Tech Enthusiast | Full-Stack Developer | ML Learner<br><br>I’m passionate about building meaningful tech solutions and constantly exploring new technologies. I enjoy collaborating on innovative projects and contributing to open-source communities.<br>👨‍💻 About Me<br><br>🔭 Currently working on: Machine Learning & MERN Stack Development<br><br>🤝 Looking to collaborate on: Open-source projects & real-world applications<br><br>🧠 Looking for help with: Advanced ML concepts & scalable web apps<br><br>🌱 Currently learning: MERN Stack, Machine Learning and Ds/Algo<br><br>💬 Ask me about: Programming, Hackathons, Tech Events, Web Dev<br><br>⚡ Fun fact: I love sports 🏏 Gaming 🎮 & Exploring new technologies 🚀<br>
 
+👋 Hi, I'm Subham!
 
+🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA Practitioner (C++)
+
+I am a passionate and motivated developer focused on building scalable, user-centric web applications and solving real-world problems through technology. I enjoy learning continuously, contributing to open-source, and working on impactful projects.
+
+👨‍💻 About Me
+
+🔭 Currently working on: MERN Stack Projects & Machine Learning Applications
+
+💡 Strong interest in: Full-Stack Development & Problem Solving
+
+🧠 Practicing: Data Structures & Algorithms in C++
+
+🤝 Open to: Open-Source Contributions, Internships & Collaborative Projects
+
+🌱 Currently learning: Advanced MERN, ML Concepts & System Design Basics
+
+💬 Ask me about: Web Development, Hackathons, DSA, Tech Communities
+
+⚡ Fun fact: I enjoy sports 🏏, gaming 🎮, and exploring emerging technologies 🚀
+
+🎯 Career Objective
+
+Aspiring to grow as a Software Engineer / Full-Stack Developer, where I can apply my technical skills, problem-solving mindset, and creativity to build innovative and impactful solutions.
 ## 📈 Contribution Graph
 
 ![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=react-dark&hide_border=true)
