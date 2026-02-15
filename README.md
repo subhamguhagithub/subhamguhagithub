@@ -13,7 +13,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 🤝 Open to: Open Source & Internships
 
-🌱 Learning: Advanced MERN & ML
+🌱 Building scalable full-stack applications using MERN
 
 ⚡ Interests: Sports 🏏 | Gaming 🎮 | Tech 🚀
 
