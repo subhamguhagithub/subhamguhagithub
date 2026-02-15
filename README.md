@@ -1,29 +1,22 @@
 
-👋 Hi, I'm Subham!
+👋 Hi, I'm Shubham!
 
-🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA Practitioner (C++)
+🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
-I am a passionate and motivated developer focused on building scalable, user-centric web applications and solving real-world problems through technology. I enjoy learning continuously, contributing to open-source, and working on impactful projects.
+Passionate about building scalable web applications, solving real-world problems, and contributing to open-source. Actively learning, improving, and open to internships, collaborations, and growth opportunities.
 
 👨‍💻 About Me
 
-🔭 Currently working on: MERN Stack Projects & Machine Learning Applications
+🔭 Working on: MERN & ML Projects
 
-💡 Strong interest in: Full-Stack Development & Problem Solving
+🧠 Practicing: DSA in C++
 
-🧠 Practicing: Data Structures & Algorithms in C++
+🤝 Open to: Open Source & Internships
 
-🤝 Open to: Open-Source Contributions, Internships & Collaborative Projects
+🌱 Learning: Advanced MERN & ML
 
-🌱 Currently learning: Advanced MERN, ML Concepts & System Design Basics
+⚡ Interests: Sports 🏏 | Gaming 🎮 | Tech 🚀
 
-💬 Ask me about: Web Development, Hackathons, DSA, Tech Communities
-
-⚡ Fun fact: I enjoy sports 🏏, gaming 🎮, and exploring emerging technologies 🚀
-
-🎯 Career Objective
-
-Aspiring to grow as a Software Engineer / Full-Stack Developer, where I can apply my technical skills, problem-solving mindset, and creativity to build innovative and impactful solutions.
 ## 📈 Contribution Graph
 
 ![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=react-dark&hide_border=true)
