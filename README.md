@@ -25,10 +25,9 @@ Passionate about building scalable web applications, solving real-world problems
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhammm.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-guha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhamG40534432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:opsubham609@gmail.com) 
 
-# 💻 Tech Stack:
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+
 ### 👨‍💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -58,9 +57,9 @@ Passionate about building scalable web applications, solving real-world problems
 ### ☁️ Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
 
 
 # 📊 GitHub Stats:
