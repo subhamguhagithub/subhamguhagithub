@@ -17,6 +17,11 @@ Passionate about building scalable web applications, solving real-world problems
 
 ⚡ Interests: Sports 🏏 | Gaming 🎮 | Tech 🚀
 
+![Snake animation](https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg)
+
+
+
+
 ## 📈 Contribution Graph
 
 ![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=react-dark&hide_border=true)
