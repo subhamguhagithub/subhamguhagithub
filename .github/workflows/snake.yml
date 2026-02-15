@@ -10,13 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake (Green Theme)
+        uses: Platane/snk@v3
         with:
           github_user_name: subhamguhagithub
+
+          # Output files
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
+
+          # Color settings (Green GitHub Style)
+          color_snake: "#39d353"
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
