@@ -2,6 +2,11 @@
 👋 Hi, I'm Shubham!<br><br>🚀 Tech Enthusiast | Full-Stack Developer | ML Learner<br><br>I’m passionate about building meaningful tech solutions and constantly exploring new technologies. I enjoy collaborating on innovative projects and contributing to open-source communities.<br>👨‍💻 About Me<br><br>🔭 Currently working on: Machine Learning & MERN Stack Development<br><br>🤝 Looking to collaborate on: Open-source projects & real-world applications<br><br>🧠 Looking for help with: Advanced ML concepts & scalable web apps<br><br>🌱 Currently learning: MERN Stack, Machine Learning and Ds/Algo<br><br>💬 Ask me about: Programming, Hackathons, Tech Events, Web Dev<br><br>⚡ Fun fact: I love sports 🏏 Gaming 🎮 & Exploring new technologies 🚀<br>
 
 
+## 📈 Contribution Graph
+
+![Shubham's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=react-dark&hide_border=true)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhammm.14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-guha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhamG40534432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:opsubham609@gmail.com) 
 
