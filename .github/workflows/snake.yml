@@ -19,11 +19,11 @@ jobs:
           github_user_name: subhamguhagithub
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: output
-          build_dir: dist
+          publish_branch: output
+          publish_dir: dist
