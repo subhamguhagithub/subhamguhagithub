@@ -49,9 +49,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subhamguhagithub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=github-dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
