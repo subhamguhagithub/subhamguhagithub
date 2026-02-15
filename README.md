@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Shubham!
+👋 Hi, I'm Subham!
 
 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
