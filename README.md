@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=35" />
 
 ### 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
