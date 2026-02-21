@@ -77,12 +77,12 @@ Passionate about building scalable web applications, solving real-world problems
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=dark&hide_border=true&v=1) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=dark&hide_border=true&v=1) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true&v=1) 
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=darkhub&no-frame=true&margin-w=8)
+## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
