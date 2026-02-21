@@ -82,8 +82,7 @@ Passionate about building scalable web applications, solving real-world problems
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=darkhub&no-frame=true&margin-w=8)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
