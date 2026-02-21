@@ -10,7 +10,7 @@
 
 👋 Hi, I'm Subham!
 
-🚀 MERN Stack Developer | AI-ML Enthusiast | DSA in C++
+🚀 MERN Stack Developer | AI-ML Enthusiast | DSA/C++
 
 Passionate about building scalable web applications, solving real-world problems, and contributing to open-source. Actively learning, improving, and open to internships, collaborations, and growth opportunities.
 
