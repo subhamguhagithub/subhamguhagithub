@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:11998e&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 MERN Stack Developer | AI-ML Enthusiast | DSA/C++
+### 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
 </div>
 
@@ -10,7 +10,7 @@
 
 👋 Hi, I'm Subham!
 
-🚀 MERN Stack Developer | AI-ML Enthusiast | DSA/C++
+🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
 Passionate about building scalable web applications, solving real-world problems, and contributing to open-source. Actively learning, improving, and open to internships, collaborations, and growth opportunities.
 
@@ -77,11 +77,14 @@ Passionate about building scalable web applications, solving real-world problems
 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=dark&hide_border=true&v=1) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=dark&hide_border=true&v=1) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true&v=1) 
+![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=dark&hide_border=true&v=1)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=dark&hide_border=true&v=1)
 
-## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true&v=1)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
