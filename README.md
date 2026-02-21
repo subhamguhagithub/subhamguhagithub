@@ -68,11 +68,11 @@ Passionate about building scalable web applications, solving real-world problems
 
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=subhamguhagithub&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub&theme=radical&no-frame=false&no-bg=false&margin-w=4)
