@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:11998e&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-### 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
+### 🚀 MERN Stack Developer | AI-ML Enthusiast | DSA in C++
 
 </div>
 
@@ -10,7 +10,7 @@
 
 👋 Hi, I'm Subham!
 
-🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
+🚀 MERN Stack Developer | AI-ML Enthusiast | DSA in C++
 
 Passionate about building scalable web applications, solving real-world problems, and contributing to open-source. Actively learning, improving, and open to internships, collaborations, and growth opportunities.
 
