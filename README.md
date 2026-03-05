@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h2>🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA in C++</h2>
+## 🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA in C++
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Learner;Deep+Packet+Inspection+Developer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Learner;Networking+Systems+Developer;Open+Source+Contributor"/>
 
 <img src="https://komarev.com/ghpvc/?username=subhamguhagithub&label=Profile%20Views&color=0e75b6&style=flat"/>
 
@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hello World!
+# 👋 Hello World
 
 <table>
 <tr>
@@ -24,14 +24,14 @@
 Name: Subham Guha
 Role: Full Stack Developer
 Stack: MERN
+Languages: C++, JavaScript, Python
+Focus: DSA + System Design
 Learning: Machine Learning
-Focus: DSA in C++
-Goal: Software Engineer
 ```
 
-* 🚀 Passionate about **building scalable web apps**
+* 🚀 Passionate about **building scalable web applications**
 * 🧠 Practicing **Data Structures & Algorithms**
-* 🌱 Learning **Machine Learning & Backend Architecture**
+* 🌱 Learning **Machine Learning & Backend Systems**
 * 🤝 Open to **internships and open source collaboration**
 
 </td>
@@ -80,32 +80,107 @@ Goal: Software Engineer
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Core Strengths
 
-### 🔍 Deep Packet Inspection Engine
-
-High-performance **C++ packet inspection engine** capable of analyzing PCAP network traffic and identifying application protocols.
-
-**Tech:**
-`C++` `Networking` `PCAP` `Multithreading` `CMake`
+* Full Stack MERN Development
+* REST API Design
+* Data Structures & Algorithms
+* Machine Learning Fundamentals
+* Networking & Systems Programming
 
 ---
 
-### 🌐 MERN Stack CRUD Web Application
+# 📊 Skill Proficiency
 
-Full-stack web application with REST APIs, React frontend, and MongoDB database.
+Backend Development        ██████████████ 90%
+Frontend Development       ████████████ 85%
+Data Structures & Algorithms ██████████ 80%
+Machine Learning           ████████ 70%
 
-**Tech:**
+---
+
+# 🚀 Featured Projects
+
+## 🔍 Deep Packet Inspection Engine
+
+C++ networking project that analyzes PCAP traffic and identifies application protocols.
+
+Tech:
+`C++` `Networking` `PCAP` `Multithreading`
+
+---
+
+## 🌐 MERN Stack CRUD Web Application
+
+Full stack CRUD application with REST API backend and React frontend.
+
+Tech:
 `MongoDB` `Express` `React` `Node.js`
 
 ---
 
-### 🧠 Customer Segmentation using Machine Learning
+## 🧠 Customer Segmentation ML Model
 
-Machine learning model using **K-Means clustering** to segment customers based on purchasing behaviour.
+Machine learning clustering project to analyze customer behavior.
 
-**Tech:**
+Tech:
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+---
+
+# 🗂 Project Showcase
+
+| Project               | Tech | Description                       |
+| --------------------- | ---- | --------------------------------- |
+| DPI Packet Analyzer   | C++  | Network traffic inspection engine |
+| MERN CRUD App         | MERN | Full stack CRUD web platform      |
+| Customer Segmentation | ML   | K-Means clustering analysis       |
+
+---
+
+# 📊 Weekly Development Breakdown
+
+JavaScript   ███████████████ 45%
+Python       █████████ 28%
+C++          ███████ 18%
+SQL          ████ 9%
+
+---
+
+# 🧠 Learning Roadmap
+
+2025 Developer Growth Plan
+
+```
+DSA Mastery (C++)
+Advanced MERN Architecture
+Machine Learning Fundamentals
+System Design
+Cloud & DevOps
+```
+
+---
+
+# 🤝 Let's Collaborate On
+
+I’m interested in collaborating on:
+
+* MERN Stack applications
+* Machine learning tools
+* Developer productivity tools
+* Networking or systems projects
+* Open source projects
+
+If you have an interesting idea, feel free to connect.
+
+---
+
+# 🏆 Achievements
+
+* Built a **Deep Packet Inspection Engine in C++**
+* Developed multiple **full-stack MERN projects**
+* Implemented **machine learning clustering models**
+* Active learner in **DSA and system design**
 
 ---
 
@@ -138,6 +213,12 @@ Machine learning model using **K-Means clustering** to segment customers based o
 
 ---
 
+# 💡 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -154,6 +235,8 @@ Machine learning model using **K-Means clustering** to segment customers based o
 
 ---
 
-# 💡 Developer Quote
+<p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<img src="https://visitcount.itsvg.in/api?id=subhamguhagithub&icon=5&color=12"/>
+
+</p>
