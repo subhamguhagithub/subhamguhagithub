@@ -16,15 +16,15 @@
 <tr>
 <td width="50%">
 
-🚀 MERN Stack Developer passionate about building **scalable web applications**.
+🚀 MERN Stack Developer passionate about building scalable applications
 
 🧠 Practicing **DSA in C++**
 
-🤝 Open to **Open Source & Internships**
+🌱 Learning **Machine Learning & Advanced Backend**
 
-🌱 Currently learning **Machine Learning**
+🤝 Open to **Internships & Open Source**
 
-⚡ Interests: **Sports | Gaming | Tech**
+⚡ Interests: **Sports | Gaming | Technology**
 
 </td>
 
@@ -35,6 +35,28 @@
 </td>
 </tr>
 </table>
+
+---
+
+# 🚀 My Coding Journey
+
+```
+Started Coding
+     │
+Learned C / C++
+     │
+Practicing DSA
+     │
+HTML / CSS / JS
+     │
+React Development
+     │
+MERN Stack Projects
+     │
+Machine Learning
+     │
+Future → System Design & Cloud
+```
 
 ---
 
@@ -53,6 +75,52 @@ const subham = {
 
 ---
 
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+
+---
+
+## 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge\&logo=tailwindcss)
+
+---
+
+## ⚙ Backend & AI/ML
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+
+---
+
+## 🗄 Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge\&logo=supabase)
+
+---
+
+## 🔧 Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -63,10 +131,6 @@ const subham = {
 
 <a href="https://www.linkedin.com/in/subham-guha">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://x.com/SubhamG40534432">
-<img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white">
 </a>
 
 <a href="mailto:opsubham609@gmail.com">
@@ -81,49 +145,20 @@ const subham = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express\&logoColor=white)
-
-### 🗄 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-🔹 **FarmConnect** – AgriTech platform connecting farmers and buyers
+🔹 FarmConnect – AgriTech platform connecting farmers and buyers
 
-🔹 **AI Stroke Detection** – ML model for early stroke detection
+🔹 AI Stroke Detection – ML model for early stroke detection
 
-🔹 **Waste Segregation System** – Arduino based smart waste system
+🔹 Waste Segregation System – Arduino based smart system
 
-🔹 **MERN Social Media App** – Full stack web application
+🔹 MERN Social Media App – Full stack web application
 
 ---
 
@@ -138,12 +173,6 @@ const subham = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=dark&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=subhamguhagithub\&theme=radical\&margin-w=4)
 
 ---
 
