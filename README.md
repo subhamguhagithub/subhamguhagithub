@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Subham%20Guha&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 ### 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+Practitioner;Machine+Learning+Enthusiast;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;DSA+Practitioner;Machine+Learning+Enthusiast;Open+Source+Learner"/>
+
+<img src="https://komarev.com/ghpvc/?username=subhamguhagithub&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
