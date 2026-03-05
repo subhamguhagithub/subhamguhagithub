@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=220&section=header&text=Subham%20Guha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ## 🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA in C++
 
@@ -18,7 +18,7 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 About Me
+### 👨‍💻 Developer Terminal
 
 ```bash
 Name: Subham Guha
@@ -31,7 +31,7 @@ Learning: Machine Learning
 
 * 🚀 Passionate about **building scalable web applications**
 * 🧠 Practicing **Data Structures & Algorithms**
-* 🌱 Learning **Machine Learning & Backend Systems**
+* 🌱 Exploring **Machine Learning and Backend Systems**
 * 🤝 Open to **internships and open source collaboration**
 
 </td>
@@ -48,34 +48,8 @@ Learning: Machine Learning
 
 # 🧠 Tech Stack
 
-### Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,firebase"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,postman,firebase"/>
 </p>
 
 ---
@@ -83,7 +57,7 @@ Learning: Machine Learning
 # 🎯 Core Strengths
 
 * Full Stack MERN Development
-* REST API Design
+* REST API Architecture
 * Data Structures & Algorithms
 * Machine Learning Fundamentals
 * Networking & Systems Programming
@@ -92,10 +66,12 @@ Learning: Machine Learning
 
 # 📊 Skill Proficiency
 
+```
 Backend Development        ██████████████ 90%
 Frontend Development       ████████████ 85%
 Data Structures & Algorithms ██████████ 80%
 Machine Learning           ████████ 70%
+```
 
 ---
 
@@ -103,58 +79,60 @@ Machine Learning           ████████ 70%
 
 ## 🔍 Deep Packet Inspection Engine
 
-C++ networking project that analyzes PCAP traffic and identifies application protocols.
+C++ networking project analyzing **PCAP traffic** and identifying protocols.
 
-Tech:
+**Tech:**
 `C++` `Networking` `PCAP` `Multithreading`
 
 ---
 
-## 🌐 MERN Stack CRUD Web Application
+## 🌐 MERN CRUD Web Application
 
-Full stack CRUD application with REST API backend and React frontend.
+Full-stack web platform with React frontend and Node.js REST API.
 
-Tech:
+**Tech:**
 `MongoDB` `Express` `React` `Node.js`
 
 ---
 
 ## 🧠 Customer Segmentation ML Model
 
-Machine learning clustering project to analyze customer behavior.
+Clustering model using **K-Means** to analyze customer purchasing behavior.
 
-Tech:
+**Tech:**
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 ---
 
-# 🗂 Project Showcase
+# 🗂 Project Cards
 
-| Project               | Tech | Description                       |
-| --------------------- | ---- | --------------------------------- |
-| DPI Packet Analyzer   | C++  | Network traffic inspection engine |
-| MERN CRUD App         | MERN | Full stack CRUD web platform      |
-| Customer Segmentation | ML   | K-Means clustering analysis       |
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamguhagithub&repo=subhamguhagithub&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
 # 📊 Weekly Development Breakdown
 
+```
 JavaScript   ███████████████ 45%
 Python       █████████ 28%
 C++          ███████ 18%
 SQL          ████ 9%
+```
 
 ---
 
 # 🧠 Learning Roadmap
 
-2025 Developer Growth Plan
-
 ```
 DSA Mastery (C++)
 Advanced MERN Architecture
-Machine Learning Fundamentals
+Machine Learning
 System Design
 Cloud & DevOps
 ```
@@ -163,24 +141,20 @@ Cloud & DevOps
 
 # 🤝 Let's Collaborate On
 
-I’m interested in collaborating on:
-
-* MERN Stack applications
-* Machine learning tools
-* Developer productivity tools
-* Networking or systems projects
-* Open source projects
-
-If you have an interesting idea, feel free to connect.
+* Full Stack Web Applications
+* Machine Learning Projects
+* Developer Tools
+* Networking or Systems Projects
+* Open Source Contributions
 
 ---
 
 # 🏆 Achievements
 
-* Built a **Deep Packet Inspection Engine in C++**
-* Developed multiple **full-stack MERN projects**
-* Implemented **machine learning clustering models**
-* Active learner in **DSA and system design**
+* Built **Deep Packet Inspection Engine in C++**
+* Developed **Full-stack MERN applications**
+* Built **Machine Learning clustering models**
+* Actively practicing **DSA and system design**
 
 ---
 
@@ -213,6 +187,20 @@ If you have an interesting idea, feel free to connect.
 
 ---
 
+# 🧊 3D Contribution Calendar
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
+
+---
+
+# 📊 GitHub Metrics Dashboard
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
+
+---
+
 # 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
@@ -229,6 +217,10 @@ If you have an interesting idea, feel free to connect.
 
 <a href="mailto:opsubham609@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://x.com/SubhamG40534432">
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </p>
