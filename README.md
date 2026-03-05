@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=220&section=header&text=Subham%20Guha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-## 🚀 MERN Developer | Machine Learning | DSA in C++
+## 🚀 MERN Stack Developer | Machine Learning Enthusiast | DSA in C++
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Machine+Learning+Learner;Networking+Systems+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Machine+Learning+Learner;Networking+Systems+Developer;Open+Source+Contributor"/>
 
 <img src="https://komarev.com/ghpvc/?username=subhamguhagithub&label=Profile%20Views&color=0e75b6&style=flat"/>
 
@@ -12,17 +12,37 @@
 
 ---
 
-# 👨‍💻 Developer Profile
+# 👋 Hello World
 
-```bash id="0oq2gk"
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Developer Terminal
+
+```bash
 Name: Subham Guha
 Role: Full Stack Developer
 Stack: MERN
 Languages: C++, JavaScript, Python
+Focus: DSA + System Design
 Learning: Machine Learning
-Focus: System Design + DSA
-Goal: Software Engineer
 ```
+
+* 🚀 Passionate about **building scalable web applications**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🌱 Exploring **Machine Learning and Backend Systems**
+* 🤝 Open to **internships and open source collaboration**
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,9 +54,24 @@ Goal: Software Engineer
 
 ---
 
-# 🧠 AI Skill Radar Chart
+# 🎯 Core Strengths
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhamguhagithub&theme=tokyonight"/>
+* Full Stack MERN Development
+* REST API Architecture
+* Data Structures & Algorithms
+* Machine Learning Fundamentals
+* Networking & Systems Programming
+
+---
+
+# 📊 Skill Proficiency
+
+```
+Backend Development        ██████████████ 90%
+Frontend Development       ████████████ 85%
+Data Structures & Algorithms ██████████ 80%
+Machine Learning           ████████ 70%
+```
 
 ---
 
@@ -44,32 +79,86 @@ Goal: Software Engineer
 
 ## 🔍 Deep Packet Inspection Engine
 
-C++ networking system that analyzes **PCAP traffic** and identifies protocols.
+C++ networking project analyzing **PCAP traffic** and identifying protocols.
 
-Tech:
+**Tech:**
 `C++` `Networking` `PCAP` `Multithreading`
 
 ---
 
 ## 🌐 MERN CRUD Web Application
 
-Full-stack web app with REST API backend and React frontend.
+Full-stack web platform with React frontend and Node.js REST API.
 
-Tech:
+**Tech:**
 `MongoDB` `Express` `React` `Node.js`
 
 ---
 
 ## 🧠 Customer Segmentation ML Model
 
-Machine learning clustering system analyzing customer purchasing patterns.
+Clustering model using **K-Means** to analyze customer purchasing behavior.
 
-Tech:
+**Tech:**
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 ---
 
-# 📊 GitHub Dashboard
+# 🗂 Project Cards
+
+<p align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamguhagithub&repo=subhamguhagithub&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+```
+JavaScript   ███████████████ 45%
+Python       █████████ 28%
+C++          ███████ 18%
+SQL          ████ 9%
+```
+
+---
+
+# 🧠 Learning Roadmap
+
+```
+DSA Mastery (C++)
+Advanced MERN Architecture
+Machine Learning
+System Design
+Cloud & DevOps
+```
+
+---
+
+# 🤝 Let's Collaborate On
+
+* Full Stack Web Applications
+* Machine Learning Projects
+* Developer Tools
+* Networking or Systems Projects
+* Open Source Contributions
+
+---
+
+# 🏆 Achievements
+
+* Built **Deep Packet Inspection Engine in C++**
+* Developed **Full-stack MERN applications**
+* Built **Machine Learning clustering models**
+* Actively practicing **DSA and system design**
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -83,19 +172,9 @@ Tech:
 
 ---
 
-# 📈 Live Contribution Activity
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🧊 3D Contribution Metrics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight"/>
 
 ---
 
@@ -108,36 +187,23 @@ Tech:
 
 ---
 
-# ⏱ Weekly Coding Activity
+# 🧊 3D Contribution Calendar
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript  ███████████████ 45%
-Python      █████████ 28%
-C++         ███████ 18%
-SQL         ████ 9%
-```
-
-<!--END_SECTION:waka-->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
 
 ---
 
-# 📊 GitHub Metrics Panel
+# 📊 GitHub Metrics Dashboard
 
-<img src="https://metrics.lecoq.io/subhamguhagithub?template=classic&base.header=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&languages.sections=most-used&languages.indepth=1&config.timezone=Asia%2FKolkata"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
 
 ---
 
-# 🤝 Let's Collaborate
+# 💡 Developer Quote
 
-I’m interested in working on:
-
-* MERN Stack Applications
-* Machine Learning Projects
-* Networking Tools
-* Developer Productivity Tools
-* Open Source Contributions
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
