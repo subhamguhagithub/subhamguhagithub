@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ffcc,100:00ff99&height=200&section=header&text=Subham%20Guha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 ### 🚀 MERN Stack Developer | ML Enthusiast | DSA in C++
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+Practitioner;Machine+Learning+Enthusiast;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+Practitioner;Machine+Learning+Enthusiast;Open+Source+Learner"/>
 
 </div>
 
 ---
 
-# 👋 Hi, I'm Subham!
+# 👋 Hello World! I'm Subham
 
 <table>
 <tr>
@@ -20,7 +20,7 @@
 
 🧠 Practicing **DSA in C++**
 
-🌱 Learning **Machine Learning & Advanced Backend**
+🌱 Currently learning **Machine Learning & Advanced Backend**
 
 🤝 Open to **Internships & Open Source**
 
@@ -30,7 +30,7 @@
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </td>
 </tr>
@@ -38,86 +38,126 @@
 
 ---
 
-# 🚀 My Coding Journey
-
-```
-Started Coding
-     │
-Learned C / C++
-     │
-Practicing DSA
-     │
-HTML / CSS / JS
-     │
-React Development
-     │
-MERN Stack Projects
-     │
-Machine Learning
-     │
-Future → System Design & Cloud
-```
-
----
-
-# 🧠 About Me
+# 🧠 Developer Profile
 
 ```javascript
 const subham = {
   role: "Full Stack MERN Developer",
   currentlyWorkingOn: ["MERN Projects", "Machine Learning"],
   practicing: "DSA in C++",
-  learning: ["Advanced Backend", "ML Algorithms"],
+  learning: ["System Design", "Cloud"],
   interests: ["Web Development", "AI", "Open Source"],
-  funFact: "Debugging is 70% of programming 😅"
+  location: "India",
+  openTo: ["Internships", "Open Source"]
 }
 ```
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 My Coding Journey
 
-## 💻 Languages
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-
----
-
-## 🎨 Frontend Development
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge\&logo=tailwindcss)
-
----
-
-## ⚙ Backend & AI/ML
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge\&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+```mermaid
+timeline
+    title My Development Journey
+    section Foundation
+      Started Coding
+      Learned C / C++
+      Practicing DSA
+    section Web Development
+      HTML CSS JavaScript
+      React Development
+      MERN Stack Projects
+    section Advanced
+      Machine Learning
+      System Design
+      Cloud & DevOps
+```
 
 ---
 
-## 🗄 Databases & Cloud
+# 💻 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge\&logo=supabase)
+## 👨‍💻 Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python)
 
 ---
 
-## 🔧 Tools & DevOps
+## 🎨 Frontend
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/Github-black?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6f2cf4?style=for-the-badge\&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge\&logo=tailwind-css)
+
+---
+
+## ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge\&logo=express)
+
+---
+
+## 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+---
+
+## 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge\&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge\&logo=supabase)
+
+---
+
+# 🚀 Featured Projects
+
+### 🔍 Deep Packet Inspection (DPI) Packet Analyzer
+
+**Networking & Systems Project**
+
+• Built a **C++ Deep Packet Inspection engine** to analyze PCAP traffic and classify applications.
+• Implemented **Ethernet, IP, TCP, and UDP protocol parsing** with multi-threaded packet processing.
+• Designed the system for **efficient network traffic inspection and protocol-level analysis**.
+
+**Tech Stack:**
+`C++` • `Networking Protocols` • `PCAP Processing` • `Multithreading` • `CMake`
+
+---
+
+### 🌐 MERN Stack CRUD Web Application
+
+**Full Stack Web Development Project**
+
+• Developed a **MERN CRUD application** with RESTful APIs using **Node.js and Express.js**.
+• Integrated **MongoDB with Mongoose** for schema-based data management.
+• Implemented **React frontend with Axios** for API communication.
+
+**Tech Stack:**
+`MongoDB` • `Express.js` • `React.js` • `Node.js` • `Axios`
+
+---
+
+### 🧠 Customer Segmentation using Machine Learning
+
+**Machine Learning Project**
+
+• Applied **K-Means clustering** to segment customers based on purchasing behavior.
+• Performed **data preprocessing and visualization** to discover behavioral patterns.
+• Built an **interactive dashboard using Streamlit** for analysis.
+
+**Tech Stack:**
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Streamlit`
 
 ---
 
@@ -147,18 +187,6 @@ const subham = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-# 🚀 Featured Projects
-
-🔹 FarmConnect – AgriTech platform connecting farmers and buyers
-
-🔹 AI Stroke Detection – ML model for early stroke detection
-
-🔹 Waste Segregation System – Arduino based smart system
-
-🔹 MERN Social Media App – Full stack web application
 
 ---
 
