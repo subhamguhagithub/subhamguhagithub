@@ -172,9 +172,6 @@ Cloud & DevOps
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true"/>
 
 ---
 
