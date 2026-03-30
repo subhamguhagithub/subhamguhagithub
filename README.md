@@ -178,18 +178,22 @@ Cloud & DevOps
 
 ---
 
-# 🧊 3D Contribution Calendar
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h3>🧊 3D Contribution Calendar</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight" />
+</td>
+<td width="50%" align="center">
+<h3>📊 GitHub Metrics Dashboard</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
-
----
-
-# 📊 GitHub Metrics Dashboard
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight" />
+</p>
 ---
 
 
