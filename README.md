@@ -149,12 +149,6 @@ Cloud & DevOps
 
 ---
 
-# 🏆 Achievements
-
-* Built **Deep Packet Inspection Engine in C++**
-* Developed **Full-stack MERN applications**
-* Built **Machine Learning clustering models**
-* Actively practicing **DSA and system design**
 
 ---
 
@@ -172,9 +166,6 @@ Cloud & DevOps
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -201,9 +192,6 @@ Cloud & DevOps
 
 ---
 
-# 💡 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
