@@ -196,6 +196,11 @@ Cloud & DevOps
 </p>
 ---
 
+# 📊 Contribution Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight" alt="GitHub Contribution Radar Chart" />
+</p>
 
 ---
 
