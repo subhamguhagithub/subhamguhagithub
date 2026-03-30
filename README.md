@@ -149,12 +149,6 @@ Cloud & DevOps
 
 ---
 
-# 🏆 Achievements
-
-* Built **Deep Packet Inspection Engine in C++**
-* Developed **Full-stack MERN applications**
-* Built **Machine Learning clustering models**
-* Actively practicing **DSA and system design**
 
 ---
 
