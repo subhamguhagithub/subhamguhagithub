@@ -211,6 +211,10 @@ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
+<a href="https://www.instagram.com/shubhammm.14">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
