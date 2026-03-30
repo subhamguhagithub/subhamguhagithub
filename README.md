@@ -194,12 +194,6 @@ Cloud & DevOps
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight" />
 </p>
----# 📊 Contribution Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight" alt="GitHub Contribution Radar Chart" />
-</p>
----
 
 # 🌐 Connect With Me
 
