@@ -167,10 +167,10 @@ Cloud & DevOps
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/00ff99/subhamguhagithub" alt="Subham Guha Github chart" />
 </p>
 
 ---
