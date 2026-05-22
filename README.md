@@ -172,6 +172,7 @@ Cloud & DevOps
 <p align="center">
   <img src="https://ghchart.rshah.org/00ff99/subhamguhagithub" alt="Subham Guha Github chart" />
 </p>
+<img width="556" height="191" alt="image" src="https://github.com/user-attachments/assets/c27ac0c5-e6c5-455e-8f24-a6cd2aacee61" />
 
 ---
 
