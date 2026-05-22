@@ -66,11 +66,11 @@ Learning: Machine Learning
 
 # 📊 Skill Proficiency
 
-```
-Backend Development        ██████████████ 90%
-Frontend Development       ████████████ 85%
-Data Structures & Algorithms ██████████ 80%
-Machine Learning           ████████ 70%
+```txt
+Backend Development                 ██████████████ 90%
+Frontend Development                ████████████ 85%
+Data Structures & Algorithms        ██████████ 80%
+Machine Learning                    ████████ 70%
 ```
 
 ---
@@ -81,7 +81,7 @@ Machine Learning           ████████ 70%
 
 C++ networking project analyzing **PCAP traffic** and identifying protocols.
 
-**Tech:**
+**Tech:**  
 `C++` `Networking` `PCAP` `Multithreading`
 
 ---
@@ -90,7 +90,7 @@ C++ networking project analyzing **PCAP traffic** and identifying protocols.
 
 Full-stack web platform with React frontend and Node.js REST API.
 
-**Tech:**
+**Tech:**  
 `MongoDB` `Express` `React` `Node.js`
 
 ---
@@ -99,7 +99,7 @@ Full-stack web platform with React frontend and Node.js REST API.
 
 Clustering model using **K-Means** to analyze customer purchasing behavior.
 
-**Tech:**
+**Tech:**  
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
 
 ---
@@ -108,7 +108,7 @@ Clustering model using **K-Means** to analyze customer purchasing behavior.
 
 <p align="center">
 
-<a href="#">
+<a href="https://github.com/subhamguhagithub">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamguhagithub&repo=subhamguhagithub&theme=tokyonight"/>
 </a>
 
@@ -118,7 +118,7 @@ Clustering model using **K-Means** to analyze customer purchasing behavior.
 
 # 📊 Weekly Development Breakdown
 
-```
+```txt
 JavaScript   ███████████████ 45%
 Python       █████████ 28%
 C++          ███████ 18%
@@ -129,7 +129,7 @@ SQL          ████ 9%
 
 # 🧠 Learning Roadmap
 
-```
+```txt
 DSA Mastery (C++)
 Advanced MERN Architecture
 Machine Learning
@@ -149,28 +149,29 @@ Cloud & DevOps
 
 ---
 
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=subhamguhagithub&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamguhagithub&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamguhagithub&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
 
-# 📈 Contribution Activity Graph
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamguhagithub&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![Subham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true)](https://github.com/subhamguhagithub)
+</p>
 
 ---
 
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -183,22 +184,37 @@ Cloud & DevOps
 
 ---
 
+# 🧊 GitHub Summary Cards
+
 <table width="100%">
 <tr>
+
 <td width="50%" align="center">
-<h3>🧊 3D Contribution Calendar</h3>
+
+<h3>📊 Profile Details</h3>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight" />
+
 </td>
+
 <td width="50%" align="center">
-<h3>📊 GitHub Metrics Dashboard</h3>
+
+<h3>🔥 Stats</h3>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight" />
+
 </td>
+
 </tr>
 </table>
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight" />
+
 </p>
+
+---
 
 # 🌐 Connect With Me
 
