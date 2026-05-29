@@ -135,8 +135,6 @@ Cloud & DevOps
 * Networking or Systems Projects
 * Open Source Contributions
 
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -155,30 +153,20 @@ Cloud & DevOps
 
 ---
 
-# 📌 Activity Overview
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhamguhagithub&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+---
 
 # 🐍 Contribution Snake
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake-dark.svg">
+
 <img src="https://raw.githubusercontent.com/subhamguhagithub/subhamguhagithub/output/github-contribution-grid-snake.svg">
 </picture>
 
@@ -187,9 +175,7 @@ Cloud & DevOps
 # 🧊 GitHub Summary Cards
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
@@ -197,6 +183,12 @@ Cloud & DevOps
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhamguhagithub&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhamguhagithub&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
@@ -221,13 +213,5 @@ Cloud & DevOps
 <a href="https://www.instagram.com/shubhammm.14">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=subhamguhagithub&icon=5&color=12"/>
 
 </p>
