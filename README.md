@@ -29,10 +29,10 @@ Focus: DSA + System Design
 Learning: Machine Learning
 ```
 
-* 🚀 Passionate about **building scalable web applications**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌱 Exploring **Machine Learning and Backend Systems**
-* 🤝 Open to **internships and open source collaboration**
+* 🚀 Passionate about building scalable web applications
+* 🧠 Practicing Data Structures & Algorithms
+* 🌱 Exploring Machine Learning and Backend Systems
+* 🤝 Open to internships and open-source collaboration
 
 </td>
 
@@ -79,9 +79,9 @@ Machine Learning                    ████████ 70%
 
 ## 🔍 Deep Packet Inspection Engine
 
-C++ networking project analyzing **PCAP traffic** and identifying protocols.
+C++ networking project analyzing PCAP traffic and identifying protocols.
 
-**Tech:**  
+**Tech:**
 `C++` `Networking` `PCAP` `Multithreading`
 
 ---
@@ -90,29 +90,17 @@ C++ networking project analyzing **PCAP traffic** and identifying protocols.
 
 Full-stack web platform with React frontend and Node.js REST API.
 
-**Tech:**  
+**Tech:**
 `MongoDB` `Express` `React` `Node.js`
 
 ---
 
 ## 🧠 Customer Segmentation ML Model
 
-Clustering model using **K-Means** to analyze customer purchasing behavior.
+Clustering model using K-Means to analyze customer purchasing behavior.
 
-**Tech:**  
+**Tech:**
 `Python` `Scikit-Learn` `Pandas` `Streamlit`
-
----
-
-# 🗂 Project Cards
-
-<p align="center">
-
-<a href="https://github.com/subhamguhagithub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=subhamguhagithub&repo=subhamguhagithub&theme=tokyonight"/>
-</a>
-
-</p>
 
 ---
 
@@ -167,12 +155,27 @@ Cloud & DevOps
 
 ---
 
+# 📌 Activity Overview
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhamguhagithub&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
 # 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00ff99/subhamguhagithub" alt="Subham Guha Github chart" />
+<img src="https://ghchart.rshah.org/00ff99/subhamguhagithub" alt="GitHub Contribution Chart"/>
 </p>
-<img width="556" height="191" alt="image" src="https://github.com/user-attachments/assets/c27ac0c5-e6c5-455e-8f24-a6cd2aacee61" />
 
 ---
 
@@ -187,31 +190,17 @@ Cloud & DevOps
 
 # 🧊 GitHub Summary Cards
 
-<table width="100%">
-<tr>
+<p align="center">
 
-<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight"/>
 
-<h3>📊 Profile Details</h3>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhamguhagithub&theme=tokyonight" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🔥 Stats</h3>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhamguhagithub&theme=tokyonight" />
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhamguhagithub&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhamguhagithub&theme=tokyonight"/>
 
 </p>
 
