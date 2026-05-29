@@ -169,15 +169,11 @@ Cloud & DevOps
 
 </p>
 
----
-
-# 📈 Contribution Heatmap
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://ghchart.rshah.org/00ff99/subhamguhagithub" alt="GitHub Contribution Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhamguhagithub&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
 
 # 🐍 Contribution Snake
 
